@@ -1,0 +1,17 @@
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.csproj.AssemblyReference.cache
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.Form1.resources
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.csproj.GenerateResource.cache
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.AssemblyInfoInputs.cache
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.AssemblyInfo.cs
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.csproj.CoreCompileInputs.cache
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\bin\Debug\net6.0-windows\gifToBitmap.exe
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\bin\Debug\net6.0-windows\gifToBitmap.deps.json
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\bin\Debug\net6.0-windows\gifToBitmap.runtimeconfig.json
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\bin\Debug\net6.0-windows\gifToBitmap.dll
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\bin\Debug\net6.0-windows\gifToBitmap.pdb
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.dll
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\refint\gifToBitmap.dll
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.pdb
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\gifToBitmap.genruntimeconfig.cache
+C:\Users\barak\source\repos\gifToBitmap\gifToBitmap\obj\Debug\net6.0-windows\ref\gifToBitmap.dll
